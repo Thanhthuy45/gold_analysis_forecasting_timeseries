@@ -1,6 +1,6 @@
 # gold_forecasting_timeseries
-1. xác định vấn đề bài toán
-2. tìm data phù hợp, crawl data
+1. xác định vấn đề bài toán.
+2. tìm data phù hợp, crawl data.
 3. tiền xử lý data
 4. phân tích data
 5. dự báo biến động giá vàng trong tương lai
